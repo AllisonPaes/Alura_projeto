@@ -94,7 +94,7 @@ body{
 }
 .apresentacao__imagem{
     width: calc(45% - 40px);
-    margin-top: -34cap; /* 50% da largura menos metade do espaço entre os elementos */
+    margin-top: -25cap; /* 50% da largura menos metade do espaço entre os elementos */
 }
 .rodape{
     color: var(--cor-primaria);
